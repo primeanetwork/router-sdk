@@ -3,7 +3,9 @@
   "version": "1.9.0",
   "description": "Primea fork — independent fork of upstream Uniswap repo",
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://registry.npmjs.org/",
+    "tag": "primea-alpha"
   },
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
